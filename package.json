@@ -1,0 +1,15 @@
+{
+    "name": "node.jsfastify",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "script": "nodemon index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "fastify": "^3.3.0",
+        "nodemon": "^2.0.4"
+    }
+}
